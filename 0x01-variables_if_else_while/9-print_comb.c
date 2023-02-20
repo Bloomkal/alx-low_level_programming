@@ -6,16 +6,20 @@
 */
 int main(void)
 {
-  int I = '0';
+int i = '0';
 
-  while (I <= '9')
-    {
-      putchar(i);
-      if (I != '9')
+while (i <= '9')
+{
+putchar(i);
+if (i != '9')
 	{
-	  putchar(',');
+	putchar(',');
 	  putchar(' ');
 	}
-      ++I;
-    }
-  putchar(
+	++i;
+}
+putchar
+return (0);
+	
+}
+	

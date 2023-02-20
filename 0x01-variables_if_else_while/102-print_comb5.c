@@ -21,7 +21,7 @@ for (j = 0; j <= 99; j++)
 	putchar(' ');
 	putchar((j / 10) + '0');
 	putchar((j % 10) + '0');
-	if (I != 98 || j != 99)
+	if (i != 98 || j != 99)
 		{
 		putchar(',');
 		putchar(' ');

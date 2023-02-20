@@ -18,8 +18,7 @@ if (i != '9')
 	}
 	++i;
 }
-putchar
+putchar('\n');
 return (0);
 	
-}
-	
+}	
